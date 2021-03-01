@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/wheelOfColors/static/css/main.4bf51844.chunk.css",
-    "main.js": "/wheelOfColors/static/js/main.7245163d.chunk.js",
-    "main.js.map": "/wheelOfColors/static/js/main.7245163d.chunk.js.map",
-    "runtime-main.js": "/wheelOfColors/static/js/runtime-main.3b9a7842.js",
-    "runtime-main.js.map": "/wheelOfColors/static/js/runtime-main.3b9a7842.js.map",
-    "static/js/2.77bdd5ef.chunk.js": "/wheelOfColors/static/js/2.77bdd5ef.chunk.js",
-    "static/js/2.77bdd5ef.chunk.js.map": "/wheelOfColors/static/js/2.77bdd5ef.chunk.js.map",
-    "index.html": "/wheelOfColors/index.html",
-    "static/css/main.4bf51844.chunk.css.map": "/wheelOfColors/static/css/main.4bf51844.chunk.css.map",
-    "static/js/2.77bdd5ef.chunk.js.LICENSE.txt": "/wheelOfColors/static/js/2.77bdd5ef.chunk.js.LICENSE.txt"
+    "main.css": "/wheelOfColors/build/static/css/main.4bf51844.chunk.css",
+    "main.js": "/wheelOfColors/build/static/js/main.7245163d.chunk.js",
+    "main.js.map": "/wheelOfColors/build/static/js/main.7245163d.chunk.js.map",
+    "runtime-main.js": "/wheelOfColors/build/static/js/runtime-main.19d0c419.js",
+    "runtime-main.js.map": "/wheelOfColors/build/static/js/runtime-main.19d0c419.js.map",
+    "static/js/2.2e3712ba.chunk.js": "/wheelOfColors/build/static/js/2.2e3712ba.chunk.js",
+    "static/js/2.2e3712ba.chunk.js.map": "/wheelOfColors/build/static/js/2.2e3712ba.chunk.js.map",
+    "index.html": "/wheelOfColors/build/index.html",
+    "static/css/main.4bf51844.chunk.css.map": "/wheelOfColors/build/static/css/main.4bf51844.chunk.css.map",
+    "static/js/2.2e3712ba.chunk.js.LICENSE.txt": "/wheelOfColors/build/static/js/2.2e3712ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b9a7842.js",
-    "static/js/2.77bdd5ef.chunk.js",
+    "static/js/runtime-main.19d0c419.js",
+    "static/js/2.2e3712ba.chunk.js",
     "static/css/main.4bf51844.chunk.css",
     "static/js/main.7245163d.chunk.js"
   ]
