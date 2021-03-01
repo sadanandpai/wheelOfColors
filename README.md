@@ -5,7 +5,7 @@ Responsive mobile compatible web application
 Live Demo: <a href="https://sadanandpai.github.io/wheelOfColors/build">Wheel of Colors</a>
 
 <a href="https://sadanandpai.github.io/funder/build/">
-  <img src="https://github.com/sadanandpai/funder/blob/master/cover.png" />
+  <img src="https://github.com/sadanandpai/wheelOfColors/blob/master/woc.png" />
 </a>
 <br/>
 
