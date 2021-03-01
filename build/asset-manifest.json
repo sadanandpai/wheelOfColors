@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wheelOfColors/static/css/main.4bf51844.chunk.css",
+    "main.js": "/wheelOfColors/static/js/main.7245163d.chunk.js",
+    "main.js.map": "/wheelOfColors/static/js/main.7245163d.chunk.js.map",
+    "runtime-main.js": "/wheelOfColors/static/js/runtime-main.3b9a7842.js",
+    "runtime-main.js.map": "/wheelOfColors/static/js/runtime-main.3b9a7842.js.map",
+    "static/js/2.77bdd5ef.chunk.js": "/wheelOfColors/static/js/2.77bdd5ef.chunk.js",
+    "static/js/2.77bdd5ef.chunk.js.map": "/wheelOfColors/static/js/2.77bdd5ef.chunk.js.map",
+    "index.html": "/wheelOfColors/index.html",
+    "static/css/main.4bf51844.chunk.css.map": "/wheelOfColors/static/css/main.4bf51844.chunk.css.map",
+    "static/js/2.77bdd5ef.chunk.js.LICENSE.txt": "/wheelOfColors/static/js/2.77bdd5ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b9a7842.js",
+    "static/js/2.77bdd5ef.chunk.js",
+    "static/css/main.4bf51844.chunk.css",
+    "static/js/main.7245163d.chunk.js"
+  ]
+}
